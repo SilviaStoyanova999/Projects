@@ -1,0 +1,2 @@
+public class Trapezoid {
+}
